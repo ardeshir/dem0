@@ -8,7 +8,7 @@ class App extends Component {
       <div className="App">
         <div className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
-          <h1>Welcome to learning to learn on Metalearn.org</h1>
+          <h1>Welcome to learning to learn: Metalearn.org</h1>
         </div>
         <p className="App-intro">
           Use this platform to learn ReactJS!
