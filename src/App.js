@@ -16,7 +16,7 @@ class App extends Component {
         <div className="divleft">
           <ul>
             <li>Login to cloud9 @ <a href="http://metalearn.org:8080">metalearn.org cloud9 IDE (live coding)</a></li>
-            <li>Navigate to ~/dem0/src/App.js</li>
+            <li>Navigate to ~/reactcode/dem0/src/App.js</li>
             <li>The git repository is @<a href="https://github.com/ardeshir/dem0">github.com/ardeshir/dem0</a></li>
           </ul>
         </div>
