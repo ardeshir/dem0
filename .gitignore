@@ -1,4 +1,5 @@
 *.json.gzip
 *.doc
 *.tmp
+node_modules
 
